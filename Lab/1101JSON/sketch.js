@@ -3,7 +3,7 @@
 
 var data = [];
 function preload(){
-  data = loadJSON("population.json");
+  data = loadJSON("data.json");
 }
 
 function setup() {
